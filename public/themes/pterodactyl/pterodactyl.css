@@ -30,6 +30,20 @@
     margin: 25% auto;
 }
 
+/* Ajoutez ces règles pour déplacer la barre latérale à gauche */
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+    background-color: #222339;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .12), 0 2px 4px 0 rgba(0, 0, 0, .08);
+    order: -1; /* Changez l'ordre pour déplacer la barre latérale à gauche */
+}
+
+.skin-blue .main-header .logo {
+    background-color: #313352;
+    color: #9aa5b1;
+}
+
 .login-logo {
     color: #fff;
     font-weight: 400;
