@@ -2,11 +2,11 @@
   --main-color: #222339;
   --secundary-color: #222339;
   --tertiary-color: #4686a8;
-  --bacground-url: url("https://media.discordapp.net/attachments/1132986922000728104/1134398257078997042/image.png");
+  --background-url: url("https://media.discordapp.net/attachments/1132986922000728104/1134398257078997042/image.png");
 }
 
 html {
-  background-image: var(--bacground-url);
+  background-image: var(--background-url);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,18 +21,20 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRw
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
   background-color: var(--main-color) !important;
   background-size: cover;
-
 }
 
 div.SubNavigation-sc-lfuaoi-0 {
   background-color: rgba(255, 255, 255, 0) !important;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
-
+  margin-left: 0;
 }
 
-div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none {
+div.grid.grid-cols-6.gap-2.md\:gap-4.col-span-4.lg\:col-span-1.order-last.lg\:order-none {
+  order: -1;
   background-color: var(--main-color);
+  margin-left: 0;
 }
+
 div.ServerRow___StyledP3-sc-1ibsw91-9 {
    text-decoration-color: whitesmoke;
 }
