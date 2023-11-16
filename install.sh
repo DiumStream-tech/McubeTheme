@@ -86,9 +86,16 @@ restoreBackUp(){
     clear
 }
                                                                                                                            
-printf "${blue}   \n" 
+printf "${blue}   
+  ____  _                        ____ _                 _ 
+ |  _ \(_)_   _ _ __ ___        / ___| | ___  _   _  __| |
+ | | | | | | | | '_ ` _ \ _____| |   | |/ _ \| | | |/ _` |
+ | |_| | | |_| | | | | | |_____| |___| | (_) | |_| | (_| |
+ |____/|_|\__,_|_| |_| |_|      \____|_|\___/ \__,_|\__,_|
+                                                          
+\n" 
 echo ""
-echo "Copyright @Dium-Cloud 2023 by MBG"
+echo "Copyright @Dium-Cloud 2023 by DiumStream"
 echo ""
 echo "Website: https://client-cloud.dium-corp.fr"
 echo ""
