@@ -14,19 +14,33 @@ html {
   background-color: transparent;
 }
 
+/* Sidebar styles */
+div.grid.grid-cols-6.gap-2.md\:gap-4.col-span-4.lg\:col-span-1.order-last.lg\:order-none {
+  order: -1;
+  background-color: var(--main-color);
+  float: left;
+  width: 20%; /* Adjust the width according to your needs */
+}
+
+/* Main content styles */
+div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf {
+  background-color: var(--secundary-color);
+  margin-left: 20%; /* Adjust the margin based on the width of the sidebar */
+}
+
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
   background-color: var(--main-color) !important;
 }
 
-a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: var(--main-color) !important;
-  background-size: cover;
-}
+/* ... (remaining styles) ... */
 
-div.SubNavigation-sc-lfuaoi-0 {
-  background-color: rgba(255, 255, 255, 0) !important;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
-  margin-left: 0;
+#app {
+  background-image: var(--background-url);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: transparent;
 }
 
 div.grid.grid-cols-6.gap-2.md\:gap-4.col-span-4.lg\:col-span-1.order-last.lg\:order-none {
