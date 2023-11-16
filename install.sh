@@ -86,19 +86,11 @@ restoreBackUp(){
     clear
 }
                                                                                                                            
-printf "${blue}  ██████   ██████  ███                        █████████             █████                
-░░██████ ██████  ░░░                        ███░░░░░███           ░░███                 
- ░███░█████░███  ████  ████████    ██████  ███     ░░░  █████ ████ ░███████   ██████    
- ░███░░███ ░███ ░░███ ░░███░░███  ███░░███░███         ░░███ ░███  ░███░░███ ███░░███   
- ░███ ░░░  ░███  ░███  ░███ ░███ ░███████ ░███          ░███ ░███  ░███ ░███░███████   
- ░███      ░███  ░███  ░███ ░███ ░███░░░  ░░███     ███ ░███ ░███  ░███ ░███░███░░░     
- █████     █████ █████ ████ █████░░██████  ░░█████████  ░░████████ ████████ ░░██████    
-░░░░░     ░░░░░ ░░░░░ ░░░░ ░░░░░  ░░░░░░    ░░░░░░░░░    ░░░░░░░░ ░░░░░░░░   ░░░░░░     \n" 
+printf "${blue}   \n" 
 echo ""
-echo "Copyright @MineCube 2023 by MBG"
+echo "Copyright @Dium-Cloud 2023 by MBG"
 echo ""
-echo "Discord: https://discord.gg/minecube"
-echo "Website: https://minecubemc.xyz"
+echo "Website: https://client-cloud.dium-corp.fr"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
