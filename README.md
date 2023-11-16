@@ -3,12 +3,12 @@
 # Theme Preview
 
 **Client Area**
-![image](https://github.com/MBG1337/McubeTheme/assets/108623200/1b682be2-3e65-4775-a9de-9e8e063808ce)
-![image](https://github.com/MBG1337/McubeTheme/assets/108623200/9981bb32-ce96-4c39-97e0-b8e1ab29db64)
-![image](https://github.com/MBG1337/McubeTheme/assets/108623200/28bcc885-53dd-4f98-818f-bd6c20fcb325)
+![image](**https://github.com/DiumStream-tech/McubeTheme/assets/108623200/1b682be2-3e65-4775-a9de-9e8e063808ce)
+![image](https://github.com/DiumStream-tech/McubeTheme/assets/108623200/9981bb32-ce96-4c39-97e0-b8e1ab29db64)
+![image](https://github.com/DiumStream-tech/McubeTheme/assets/108623200/28bcc885-53dd-4f98-818f-bd6c20fcb325)
 
 **Admin Area**
-![image](https://github.com/MBG1337/McubeTheme/assets/108623200/0aaccc5e-cf2c-48dc-9286-3dff9c21d74b)
+![image](https://github.com/DiumStream-tech/McubeTheme/assets/108623200/0aaccc5e-cf2c-48dc-9286-3dff9c21d74b)
 
 
 # Hosts using this
